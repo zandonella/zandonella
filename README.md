@@ -1,9 +1,10 @@
 # Hi, I'm  Michael 👋
 
-20-year-old software engineer and Computer Science student at Oregon State, graduating June 2026.
-Focused on full-stack applications, backend systems, and infrastructure. 
+20-year-old software engineer and recent Computer Science graduate from Oregon State University.
 
-Currently seeking full-time Software Engineering roles (NYC / NJ).
+Focused on full-stack applications, backend systems, and infrastructure.
+
+Currently seeking full-time Software Engineering roles in NYC / NJ.
 
 ## Tech
 **Languages:**  
